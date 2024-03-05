@@ -11,5 +11,5 @@ Additionally, Figma wireframes aid in prototyping our website, showcasing recomm
 # What's next for EmpowerHer 
 In future iterations of EmpowerHer, we'd like to add more career planning features such as daily career milestone tasks, and build out the community tab with short articles, course suggestions, woman-friendly financing/trading suggestions, and videos related to career, wellness, and financial success. Following WiCHacks, we aim to advance the website beyond the prototype stage using React or Angular for front-end, relational database, and Java or Python as our backend, necessitating a learning curve for these frameworks to enhance interactions. Additionally, we intend to enhance the inclusivity of our mentorship program.
 
-#Figma: https://www.figma.com/proto/3aiw4rRxRPg1vfxxLdCYDn/WICHacks-2024?type=design&node-id=108-3830&t=azH9HQYThzYs9ExB-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=108%3A3830&show-proto-sidebar=1&mode=design
+# Figma: https://www.figma.com/proto/3aiw4rRxRPg1vfxxLdCYDn/WICHacks-2024?type=design&node-id=108-3830&t=azH9HQYThzYs9ExB-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=108%3A3830&show-proto-sidebar=1&mode=design
 
